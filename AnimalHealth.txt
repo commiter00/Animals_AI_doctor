@@ -1,0 +1,283 @@
+animal_health_data = """
+Animal Name: Dog
+Scientific Name: Canis lupus familiaris
+Common Health Issues:
+- Hip Dysplasia
+- Obesity
+- Dental Disease
+- Allergies
+
+Symptoms:
+- Limping or difficulty in walking (Hip Dysplasia)
+- Excessive weight gain (Obesity)
+- Bad breath, swollen gums (Dental Disease)
+- Itching, red skin (Allergies)
+
+Prevention:
+- Regular exercise and balanced diet (Hip Dysplasia, Obesity)
+- Regular teeth brushing and dental check-ups (Dental Disease)
+- Regular grooming and hypoallergenic food (Allergies)
+
+Treatment:
+- Physical therapy, weight management (Hip Dysplasia)
+- Weight loss plan (Obesity)
+- Professional dental cleaning (Dental Disease)
+- Antihistamines, special diet (Allergies)
+
+Diet:
+High-quality protein, omega-3 fatty acids, and low-calorie foods.
+
+Animal Name: Cat
+Scientific Name: Felis catus
+Common Health Issues:
+- Feline Lower Urinary Tract Disease (FLUTD)
+- Diabetes
+- Hyperthyroidism
+- Hairballs
+
+Symptoms:
+- Straining to urinate, blood in urine (FLUTD)
+- Increased thirst and urination, weight loss (Diabetes)
+- Increased appetite, weight loss (Hyperthyroidism)
+- Vomiting hair (Hairballs)
+
+Prevention:
+- Wet food diet, regular vet check-ups (FLUTD)
+- Low-carb, high-protein diet (Diabetes)
+- Regular vet check-ups (Hyperthyroidism)
+- Regular grooming and special diet (Hairballs)
+
+Treatment:
+- Increased water intake, special diet (FLUTD)
+- Insulin therapy, diet change (Diabetes)
+- Medication or surgery (Hyperthyroidism)
+- Hairball control diets, laxatives (Hairballs)
+
+Diet:
+High-protein, moderate fat, and low-carbohydrate food.
+
+Animal Name: Horse
+Scientific Name: Equus ferus caballus
+Common Health Issues:
+- Colic
+- Laminitis
+- Respiratory Issues (Heaves)
+- Arthritis
+
+Symptoms:
+- Abdominal pain, rolling on the ground (Colic)
+- Lameness, warm hooves (Laminitis)
+- Coughing, nasal discharge (Respiratory Issues)
+- Stiffness, difficulty moving (Arthritis)
+
+Prevention:
+- Regular deworming, proper diet (Colic)
+- Avoid overfeeding, regular hoof care (Laminitis)
+- Good ventilation, dust-free environment (Respiratory Issues)
+- Regular exercise, joint supplements (Arthritis)
+
+Treatment:
+- Pain relief, fluid therapy (Colic)
+- Anti-inflammatory drugs, specialized shoeing (Laminitis)
+- Bronchodilators, corticosteroids (Respiratory Issues)
+- Pain management, joint injections (Arthritis)
+
+Diet:
+High-fiber diet, low in carbohydrates, adequate minerals and vitamins.
+
+Animal Name: Rabbit
+Scientific Name: Oryctolagus cuniculus
+Common Health Issues:
+- Gastrointestinal Stasis
+- Dental Disease
+- Respiratory Infections
+- Skin Parasites
+
+Symptoms:
+- Lack of appetite, abdominal pain (Gastrointestinal Stasis)
+- Overgrown teeth, drooling (Dental Disease)
+- Sneezing, nasal discharge (Respiratory Infections)
+- Itching, hair loss (Skin Parasites)
+
+Prevention:
+- High-fiber diet, regular exercise (Gastrointestinal Stasis)
+- Regular teeth checks, appropriate diet (Dental Disease)
+- Clean environment, isolation of infected animals (Respiratory Infections)
+- Regular grooming and parasite control (Skin Parasites)
+
+Treatment:
+- Fluid therapy, motility drugs (Gastrointestinal Stasis)
+- Teeth trimming, antibiotics (Dental Disease)
+- Antibiotics, supportive care (Respiratory Infections)
+- Topical treatments, antiparasitic drugs (Skin Parasites)
+
+Diet:
+High-fiber hay, fresh vegetables, and limited pellets.
+
+Animal Name: Parrot
+Scientific Name: Psittaciformes
+Common Health Issues:
+- Psittacosis
+- Feather Plucking
+- Beak Malformation
+- Vitamin A Deficiency
+
+Symptoms:
+- Nasal discharge, lethargy (Psittacosis)
+- Self-mutilation, bald patches (Feather Plucking)
+- Overgrown or misshapen beak (Beak Malformation)
+- Poor feather quality, respiratory issues (Vitamin A Deficiency)
+
+Prevention:
+- Clean cage and food, regular vet check-ups (Psittacosis)
+- Provide mental stimulation and socialization (Feather Plucking)
+- Regular beak trims, proper diet (Beak Malformation)
+- Diet rich in vitamin A, leafy greens (Vitamin A Deficiency)
+
+Treatment:
+- Antibiotics, isolation (Psittacosis)
+- Behavioral therapy, environmental enrichment (Feather Plucking)
+- Beak trimming, corrective surgery (Beak Malformation)
+- Dietary supplements, improved nutrition (Vitamin A Deficiency)
+
+Diet:
+Variety of fruits, vegetables, nuts, and seeds.
+
+Animal Name: Cow
+Scientific Name: Bos taurus
+Common Health Issues:
+- Mastitis
+- Bloat
+- Lameness
+- Milk Fever
+
+Symptoms:
+- Swollen udder, reduced milk yield (Mastitis)
+- Swollen abdomen, discomfort (Bloat)
+- Limping, swollen joints (Lameness)
+- Muscle tremors, low body temperature (Milk Fever)
+
+Prevention:
+- Clean milking equipment, proper hygiene (Mastitis)
+- Avoid sudden diet changes, proper feeding (Bloat)
+- Regular hoof trimming, good flooring (Lameness)
+- Balanced diet, calcium supplements (Milk Fever)
+
+Treatment:
+- Antibiotics, anti-inflammatory drugs (Mastitis)
+- Stomach tube, anti-bloat medication (Bloat)
+- Rest, pain management (Lameness)
+- Calcium infusion, supportive care (Milk Fever)
+
+Diet:
+High-quality forage, balanced minerals, and vitamins.
+
+Animal Name: Sheep
+Scientific Name: Ovis aries
+Common Health Issues:
+- Foot Rot
+- Parasites
+- Pneumonia
+- Pregnancy Toxemia
+
+Symptoms:
+- Lameness, foul odor from hooves (Foot Rot)
+- Weight loss, diarrhea (Parasites)
+- Coughing, nasal discharge (Pneumonia)
+- Weakness, loss of appetite (Pregnancy Toxemia)
+
+Prevention:
+- Regular hoof trimming, clean environment (Foot Rot)
+- Regular deworming, pasture management (Parasites)
+- Avoid overcrowding, good ventilation (Pneumonia)
+- Proper nutrition, monitor pregnant ewes (Pregnancy Toxemia)
+
+Treatment:
+- Antibiotics, hoof trimming (Foot Rot)
+- Dewormers, supportive care (Parasites)
+- Antibiotics, supportive care (Pneumonia)
+- Energy supplements, supportive care (Pregnancy Toxemia)
+
+Diet:
+High-quality hay, grains, and minerals.
+
+Animal Name: Goat
+Scientific Name: Capra aegagrus hircus
+Common Health Issues:
+- Caprine Arthritis Encephalitis (CAE)
+- Mastitis
+- Bloat
+- Parasites
+
+Symptoms:
+- Joint swelling, neurological symptoms (CAE)
+- Swollen udder, clotted milk (Mastitis)
+- Distended abdomen, discomfort (Bloat)
+- Diarrhea, weight loss (Parasites)
+
+Prevention:
+- Test for CAE, good biosecurity (CAE)
+- Clean milking equipment, proper hygiene (Mastitis)
+- Avoid sudden diet changes, proper feeding (Bloat)
+- Regular deworming, pasture management (Parasites)
+
+Treatment:
+- No cure for CAE, supportive care (CAE)
+- Antibiotics, anti-inflammatory drugs (Mastitis)
+- Stomach tube, anti-bloat medication (Bloat)
+- Dewormers, supportive care (Parasites)
+
+Diet:
+High-quality forage, minerals, and water.
+
+Animal Name: Pig
+Scientific Name: Sus scrofa domesticus
+Common Health Issues:
+- Swine Influenza
+- Porcine Respiratory Disease Complex (PRDC)
+- Erysipelas
+- Gastric Ulcers
+
+Symptoms:
+- Coughing, fever (Swine Influenza)
+- Coughing, difficulty breathing (PRDC)
+- Skin lesions, fever (Erysipelas)
+- Vomiting, loss of appetite (Gastric Ulcers)
+
+Prevention:
+- Vaccination, good ventilation (Swine Influenza)
+- Good herd management, biosecurity (PRDC)
+- Vaccination, clean environment (Erysipelas)
+- Proper diet, avoid stress (Gastric Ulcers)
+
+Treatment:
+- Supportive care, antiviral drugs (Swine Influenza)
+- Antibiotics, supportive care (PRDC)
+- Antibiotics, supportive care (Erysipelas)
+- Antacids, supportive care (Gastric Ulcers)
+
+Diet:
+Balanced diet with adequate protein and fiber.
+
+Animal Name: Chicken
+Scientific Name: Gallus gallus domesticus
+Common Health Issues:
+- Avian Influenza
+- Coccidiosis
+- Marek's Disease
+- Egg Binding
+
+Symptoms:
+- Coughing, nasal discharge (Avian Influenza)
+- Bloody diarrhea, lethargy (Coccidiosis)
+- Paralysis, weight loss (Marek's Disease)
+- Straining to lay eggs, swollen abdomen (Egg Binding)
+
+Prevention:
+- Vaccination, biosecurity measures (Avian Influenza)
+- Clean coop, regular cleaning (Coccidiosis)
+- Vaccination, good hygiene (Marek's Disease)
+- Provide calcium-rich diet, proper nesting area (Egg Binding)
+
+Treatment:
+- Supportive care
